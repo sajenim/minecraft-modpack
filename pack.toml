@@ -1,0 +1,13 @@
+name = "Minecraft Modpack"
+author = "sajenim"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eb5b02a619f8d065db4542d0a336befb7116d8012f2ec990e45a2943bbf66cd4"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.6"
