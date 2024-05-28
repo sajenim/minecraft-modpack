@@ -32,7 +32,7 @@ graveSpawnHeight = 2
 lastResort = "DROP_ITEMS"
 putXpInGrave = true
 defaultXpDrop = false
-xpDropPercent = 50
+xpDropPercent = 80
 tellDeathPos = true
 maxGraveBackups = 50
 
@@ -125,9 +125,9 @@ playerSelectShowZeroCheckbox = 7829367
 playerSelectSearchBar = 16777215
 [utilitySettings.soulboundEnchant]
 enabled = true
-isTreasure = false
+isTreasure = true
 villagerTrade = true
-tableAndLoot = false
+tableAndLoot = true
 [utilitySettings.deathSightEnchant]
 enabled = false
 isTreasure = true
@@ -144,7 +144,7 @@ getFromGui = false
 rebindable = false
 graveKeySpecification = "PLAYER"
 [utilitySettings.graveCompassSettings]
-receiveOnDeath = false
+receiveOnDeath = true
 tryDeleteOnClaim = true
 [commandToggles]
 coreCommandName = "yigd"

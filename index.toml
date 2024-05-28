@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yigd.toml"
-hash = "6825c57499415d407bfe42f9ad56979ee3b0a54cfb20956e5e6b79a49b4719ea"
+hash = "12b27ef8d3c1c96ee097f6dc234eabb34050b6b960964f2c270e5bc722d02cab"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
