@@ -22,9 +22,9 @@
     "dropOnGroundSlots": []
   },
   "expConfig": {
-    "dropBehaviour": "BEST_OF_BOTH",
-    "dropPercentage": 0,
-    "keepPercentage": 0
+    "dropBehaviour": "PERCENTAGE",
+    "dropPercentage": 100,
+    "keepPercentage": 80
   },
   "graveConfig": {
     "enabled": true,
@@ -158,10 +158,10 @@
   },
   "graveRendering": {
     "useCustomFeatureRenderer": true,
-    "useSkullRenderer": true,
+    "useSkullRenderer": false,
     "useTextRenderer": true,
     "adaptRenderer": false,
-    "useGlowingEffect": true,
+    "useGlowingEffect": false,
     "glowingDistance": 15
   },
   "extraFeatures": {
@@ -169,7 +169,7 @@
       "enabled": true,
       "isTreasure": true,
       "isAvailableForEnchantedBookOffer": true,
-      "isAvailableForRandomSelection": false
+      "isAvailableForRandomSelection": true
     },
     "deathSightEnchant": {
       "enabled": false,
@@ -195,7 +195,7 @@
       "consumeOnUse": false
     },
     "graveCompass": {
-      "receiveOnRespawn": false,
+      "receiveOnRespawn": true,
       "consumeOnUse": true,
       "deleteWhenUnlinked": true,
       "cloneRecoveryCompassWithGUI": false,
