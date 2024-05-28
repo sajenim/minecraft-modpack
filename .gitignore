@@ -1,3 +1,7 @@
+# Exclude nix-direnv
+.envrc
+.direnv
+
 # Exclude exported CurseForge zip files
 *.zip
 
