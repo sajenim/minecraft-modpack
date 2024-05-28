@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "47417b73fa94227651ac63139dddaf6beb937d45aed9ba8221a563a8ad50e209"
+hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
 
 [[files]]
@@ -12,10 +12,10 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "4e87ee9b05c48cf4ca532f455de6d21d1c7c6adae8f90f9020d7ca0a159472b9"
+hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
 metafile = true
