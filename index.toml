@@ -14,6 +14,11 @@ hash = "47417b73fa94227651ac63139dddaf6beb937d45aed9ba8221a563a8ad50e209"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
