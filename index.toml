@@ -9,6 +9,11 @@ file = "README.md"
 hash = "0655f1371600922727fa66a6a3ad90ffb3a5cd9e9f851a66af048b13f3aaa3d3"
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "47417b73fa94227651ac63139dddaf6beb937d45aed9ba8221a563a8ad50e209"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
