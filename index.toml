@@ -15,6 +15,11 @@ hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
 metafile = true
@@ -25,6 +30,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "38277c071e79128e516e6f83322775dfd2324a21c4812453e02067b23e3f3b09"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "4d8679e54b1f48c3dcc5ce3ae7f023b2c25ef3653f3ebf20a53f95597359c989"
 metafile = true
@@ -32,6 +42,16 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "eb9e018bcea14732b53ca4678593c1e9f7bab63cc11f8bba497475bf975c20be"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "970bd250c0bbd6ce0249c6e5bde09adabda4969e13ead743f684549b31beaace"
 metafile = true
 
 [[files]]
