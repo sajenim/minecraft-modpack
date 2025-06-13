@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yigd.toml"
-hash = "12b27ef8d3c1c96ee097f6dc234eabb34050b6b960964f2c270e5bc722d02cab"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
