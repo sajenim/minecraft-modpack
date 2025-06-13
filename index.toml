@@ -51,6 +51,11 @@ hash = "a5296cda8cb89c99e40de32ab124700f7a6feb922fb37170c7988422e521c6d8"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "8ad6382001078c012fd1131e2cf19016bb25a45e4b2049f85bd301f3bd04df7b"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
