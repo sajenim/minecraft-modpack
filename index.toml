@@ -5,6 +5,11 @@ file = "config/yigd.toml"
 hash = "12b27ef8d3c1c96ee097f6dc234eabb34050b6b960964f2c270e5bc722d02cab"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "230202fc2f3e586cb8dcb44e971c27c3fd1efb649f2d3bd8edaa64fb453ba9b3"
 metafile = true
@@ -17,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "d5dd2ff45974aaf530fb0d6233cb64c55d220a6279a438e81ee45eca320412c5"
+metafile = true
+
+[[files]]
+file = "mods/extra-boats.pw.toml"
+hash = "23de2071d6f1287b186728063d5d95c130b8d1d3d8abbead44524fd68a5b9f4c"
 metafile = true
 
 [[files]]
