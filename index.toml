@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yigd.json"
-hash = "f990385e0f7021234fa92cf21c98c4c098f6b8845b7f05c0bdf8ef680bafe786"
+hash = "6d9cc9daa0253f6b69e4617a1b8638ff9d9d0abf5265b1f1c90bf7b94758c3b2"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
